@@ -19,3 +19,5 @@ appimage:
       - qt
     raw_environment:
       QML_SOURCES_PATHS: "\"$PROJECT_ROOT\"/src/qmlcomponents/"
+    environment:
+      UPD_INFO: "gh-releases-zsync|TheAssassin|rpi-imager|latest|Raspberry_Pi_Imager-*x86_64.AppImage.zsync"
